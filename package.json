@@ -1,0 +1,9 @@
+{
+	"name": "colorodo",
+	"version": "1.0",
+	"author": "Vadim Demedes <sbioko@gmail.com>",
+	"main": "./index.js",
+	"license": "MIT",
+	"engine": { "node": ">=0.4" },
+	"repository": { "type": "git", "url": "https://github.com/vdemedes/colorodo.git" }
+}
