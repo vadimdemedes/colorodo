@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/vdemedes/colorodo.png)](http://travis-ci.org/vdemedes/colorodo)
 # Colorodo
 
 This is tiny helper for colored output in Terminal.
